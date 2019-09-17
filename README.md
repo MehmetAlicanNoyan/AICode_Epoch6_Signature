@@ -4,4 +4,6 @@ AI Code is an initiative by fruitpunch where students can learn to apply AI toge
 
 # Challenge description
 
-This week we will be building an ML model for signature verification i.e. tell if a signature is genuine or forged.
+This week we will build an ML model for signature verification i.e. tell if a signature is genuine or forged. The challenge is based on [this paper](https://arxiv.org/abs/1707.02131). You will try to implement the architecture described in the paper.
+
+This challenge is prepared by [Mehmet Alican Noyan](https://github.com/MehmetAlicanNoyan).
